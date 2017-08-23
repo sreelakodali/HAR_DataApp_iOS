@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					925404331F3120BE0011B887 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 8G7YU2SZ33;
 						ProvisioningStyle = Automatic;
 					};
 					925404471F3120BE0011B887 = {
@@ -411,7 +412,8 @@
 		9254045D1F3120BE0011B887 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				DEVELOPMENT_TEAM = 8G7YU2SZ33;
 				INFOPLIST_FILE = "HAR Sensor Logger/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sreelaSTARnet.HAR-Sensor-Logger";
@@ -423,7 +425,8 @@
 		9254045E1F3120BE0011B887 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				DEVELOPMENT_TEAM = 8G7YU2SZ33;
 				INFOPLIST_FILE = "HAR Sensor Logger/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sreelaSTARnet.HAR-Sensor-Logger";
@@ -505,6 +508,7 @@
 				9254045E1F3120BE0011B887 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9254045F1F3120BE0011B887 /* Build configuration list for PBXNativeTarget "HAR Sensor LoggerTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				925404611F3120BE0011B887 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		925404621F3120BE0011B887 /* Build configuration list for PBXNativeTarget "HAR Sensor LoggerUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				925404641F3120BE0011B887 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
