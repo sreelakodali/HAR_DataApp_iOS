@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     let softGreen = UIColor(displayP3Red: 0.0, green: 1.0, blue: 0.0, alpha: 0.5)
     let sampleFreq:Double = 50.0
     let zero:Double = 0.000
-    
     var manager: CMMotionManager!
     var Xa:Double = 0.0
     var Ya:Double = 0.0

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60B7A855C83A780F4277035B61F20CA91E520018",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "60B7A855C83A780F4277035B61F20CA91E520018" : 9223372036854775807,
+    "A8A0805D66AA554DD154644EAB59EC47E3DC2195" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39C0A3B1-BC84-4231-BEFF-AE084D7F1174",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "60B7A855C83A780F4277035B61F20CA91E520018" : "HAR%20Sensor%20Logger\/",
+    "A8A0805D66AA554DD154644EAB59EC47E3DC2195" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HAR Sensor Logger",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HAR Sensor Logger.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreelakodali\/HAR_datacollectionApp_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60B7A855C83A780F4277035B61F20CA91E520018"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreelakodali\/Research2017_Sreela.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8A0805D66AA554DD154644EAB59EC47E3DC2195"
+    }
+  ]
+}
