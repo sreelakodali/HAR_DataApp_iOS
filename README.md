@@ -14,7 +14,7 @@ The data collected from the app is used with DNN models for HAR. The DNN models 
 To collect data that corresponds with the UCI Smartphone dataset and correctly for the DNN model, the phone should be held horizontally and worn centered at hip-level in a waistband (screen facing inwards).
 The horizontal layout of the iOS application helps the user position the phone properly for data collection.
 
-1) Wear a smartphone waistband. Make sure it is taut. Position it such that the pouch is at hip-level and front center. An example of waistband can be found here: https://images-na.ssl-images-amazon.com/images/I/71NcfRySmmL._SY355_.jpg
+1) Wear a smartphone waistband. Make sure it is taut. Position it such that the pouch is at hip-level and front center. An example waistband can be found here: https://images-na.ssl-images-amazon.com/images/I/71NcfRySmmL._SY355_.jpg
 2) Launch the HAR application on your iPhone.
 3) Click the 'Start' button to begin collecting data.
 4) Insert the phone horizontally into the waistband pouch - the text for the app should be facing up and the screen should be towards your body.
