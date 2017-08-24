@@ -16,7 +16,6 @@ class ViewController: UIViewController {
     let sampleFreq:Double = 50.0
     let zero:Double = 0.000
     var manager: CMMotionManager!
-    
     var Xa:Double = 0.0
     var Ya:Double = 0.0
     var Za:Double = 0.0
