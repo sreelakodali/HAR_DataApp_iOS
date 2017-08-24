@@ -10,7 +10,7 @@ The output .csv file is formatted in the following:
 AccX AccY AccZ GyroX GyroY GyroZ
 
 # Using the App
-The data collected from the app is used with trained DNN models for HAR. The DNN models were trained with the UCI Smartphone HAR dataset (https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions).
+The data collected from the app is used with DNN models for HAR. The DNN models were trained with the UCI Smartphone HAR dataset (https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions).
 To collect data that corresponds with the UCI Smartphone dataset and correctly for the DNN model, the phone should be held horizontally and worn centered at hip-level in a waistband (screen facing inwards).
 The horizontal layout of the iOS application helps the user position the phone properly for data collection.
 
